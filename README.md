@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1174014039333031936/1196084426753462312/logssystem.png" width="300"/>
+<img src="https://i.imgur.com/GwZO1Uy.png" width="300"/>
 
 # PLUGIN LogsSystem
 
